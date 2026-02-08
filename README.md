@@ -1,21 +1,26 @@
-Hi There,
+# C++ Basics
 This repository is part of my learning journey in C++ programming.
+It contains simple programs written to understand fundamental programming concepts.
 
-# What to expect:-
-This repository contains simple programs written to understand fundamental programming concepts.
+## What to Expect
+- Beginner-friendly C++ programs
+- Clear and readable code
+- Focus on understanding core concepts
 
-# Concepts Covered:-
-  • Input/Output
-  • Data Types and Variables
-  • Operators
-  • Conditional Statements (if, else, switch)
-  • Loops (for, while, do-while)
-  • Arrays
-  • Strings
-  • Pointers
-  • Object-Oriented Programming Introduction:
-     ⁎ Classes and Objects
-     ⁎ Accesss Specifiers
+## Concepts Covered
+- Input and Output
+- Data Types and Variables
+- Operators
+- Conditional Statements (if, else, switch)
+- Loops (for, while, do-while)
+- Arrays
+- Strings
+- Pointers
+- Introduction to Object-Oriented Programming
+  - Classes and Objects
+  - Access Specifiers
 
-# Purpose
-The goal of this repository is to build a strong foundation in C++ before moving on to Data Structures and Algorithms.
+## Purpose
+The goal of this repository is to build a strong foundation in C++
+before moving on to Data Structures and Algorithms.
+
