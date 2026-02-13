@@ -16,6 +16,7 @@ It contains simple programs written to understand fundamental programming concep
 - Arrays
 - Strings
 - Pointers
+- Dynamic Memory Allocation
 - Introduction to Object-Oriented Programming
   - Classes and Objects
   - Access Specifiers
