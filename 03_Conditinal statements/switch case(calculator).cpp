@@ -13,7 +13,7 @@ int main ()
     cin >> op;
 
     // Ask user to enter operands
-    cout << "Enter two integers: ";
+    cout << "Enter 1st and 2nd operand: ";
     cin >> a >> b;
 
     // Use switch statement to perform operation based on user input
@@ -48,3 +48,4 @@ int main ()
 
     return 0;
 }
+
