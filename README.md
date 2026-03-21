@@ -6,6 +6,7 @@ It contains simple programs written to understand fundamental programming concep
 - Beginner-friendly C++ programs
 - Clear and readable code
 - Focus on understanding core concepts
+- Mini Projects using basics
 
 ## Concepts Covered
 - Input and Output
@@ -20,7 +21,6 @@ It contains simple programs written to understand fundamental programming concep
 - Introduction to Object-Oriented Programming
   - Classes and Objects
   - Access Specifiers
-- Mini Projects 
 
 ## Purpose
 The goal of this repository is to build a strong foundation in C++
