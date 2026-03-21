@@ -20,6 +20,7 @@ It contains simple programs written to understand fundamental programming concep
 - Introduction to Object-Oriented Programming
   - Classes and Objects
   - Access Specifiers
+- Mini Projects 
 
 ## Purpose
 The goal of this repository is to build a strong foundation in C++
