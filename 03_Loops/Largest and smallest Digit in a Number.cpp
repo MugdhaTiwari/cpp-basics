@@ -27,6 +27,12 @@ int main(){
          number =  number / 10;          // Remove the last digit
     }
 
+    if ( number == 0 )
+         {
+            smallestDigit = 0;             // If the number is 0, then the smallest digit is also 0
+            largestDigit = 0;              // If the number is 0, then the largest digit is also 0
+         }
+
     cout << "The largest digit in the number is: " << largestDigit << endl;
     cout << "The smallest digit in the number is: " << smallestDigit << endl;
 
