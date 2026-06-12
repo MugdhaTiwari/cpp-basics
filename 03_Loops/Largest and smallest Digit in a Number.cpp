@@ -1,3 +1,7 @@
+// This program finds the largest and smallest digit in a given number.
+// It takes an integer input from the user and processes each digit 
+//to find the largest and smallest digits.
+
 #include <iostream>
 using namespace std;
 int main(){
