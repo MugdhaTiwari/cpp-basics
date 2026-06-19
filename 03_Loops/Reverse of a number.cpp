@@ -1,7 +1,7 @@
 //Reverse a number
 
 #include<iostream>
-using namespace std;
+using namespace std;             
 int main()
 {
     int number, rev_number = 0 ;
