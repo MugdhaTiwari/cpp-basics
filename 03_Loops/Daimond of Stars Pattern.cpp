@@ -5,9 +5,12 @@ using namespace std;
 
 int main()
 {
-   int i, n , j ;
+   int n, i , j ;
 
-    for ( i = 1; i = n; i++ )                   //Loop to switch row
+   cout << "Enter n ";
+   cin >> n ;
+
+    for ( i = 1 ; i <= n ; i++ )                   //Loop to switch row
     {
        
        for ( j = 1 ; j <= n - i ; j++ )          // Loop for Spaces
@@ -15,12 +18,32 @@ int main()
           cout << " ";
        }
        
-       for ( j = 1; j <= 2 * i - 1; j++ )       //Loop for Stars
+       for ( j = 1 ; j <= 2 * i - 1 ; j++ )       //Loop for Stars
        {
-          cout << " * " ;
+          cout << "*" ;
        }
+
+       cout << endl ;
                              
     }
 
+    for ( i = n - 1 ; i >= 1 ; i-- )
+    {
+
+        for ( j = 1 ; j <= n - i ; j++ )
+        {
+           cout << " " ;   
+        }
+
+        for ( j = 1; j <= 2*i-1 ; j++ )
+        {
+           cout << "*" ;
+        }
+        
+        cout << endl ;
+
+    }
+
     return 0;
+
 }
