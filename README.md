@@ -31,12 +31,6 @@ Programs using:
 * while loops
 * do-while loops
 
-Examples include:
-
-* Prime Number Checker
-* Largest Digit Finder
-* Largest and Smallest Digit Finder
-
 ### 04_Arrays
 
 Programs based on array operations and problem solving.
