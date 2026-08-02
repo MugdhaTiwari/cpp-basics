@@ -1,3 +1,0 @@
-//   Hightest element in an array
-
-#include<io
